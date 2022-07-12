@@ -2,7 +2,7 @@
 Fashion Image Retrieval With Quadruplet Capsule Networks
 Official Notebook for QRCCapsNet: A Quadruplet version of the RCCapsNet
 
-Based on https://github.com/mahdiye_khatami/QRCCApsNet/paper/FashionImageRetrievalWithQuadrupletCapsuleNetworks.pdf
+Based on https://github.com/MahdiyeKhatami/QRCCapsNet/blob/main/Khatami_Fashion_Image_Retrieval_With_Quadruplet_Capsule_Networks.pdf
 
 By Mahdiye Khatami mahdiye_khatami@semnan.ac.ir or m.khatami95@gmail.com
 
