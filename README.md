@@ -25,7 +25,7 @@ https://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Kinli_Fashion_Imag
 
 **RCCApsNet unofficial  notebook**
 
- https://github.com/mahdiye_khatami/RCCApsNet
+ https://github.com/MahdiyeKhatami/RCCapsNet
 
 **Deep Fashion-inshop Dataset:**
 
