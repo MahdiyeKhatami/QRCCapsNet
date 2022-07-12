@@ -6,6 +6,8 @@ Based on https://github.com/MahdiyeKhatami/QRCCapsNet/blob/main/Khatami_Fashion_
 
 By Mahdiye Khatami mahdiye_khatami@semnan.ac.ir or m.khatami95@gmail.com
 
+![myimage-alt-tag](https://drive.google.com/file/d/1KDTzMgJ-2FS4II6ZVut7Ri5ESMYsCv7A/view?usp=sharing)
+
 # Refrences:
 
 **Quadruplet loss function**
