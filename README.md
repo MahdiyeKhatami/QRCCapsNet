@@ -36,7 +36,5 @@ https://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Kinli_Fashion_Imag
 
  https://drive.google.com/drive/folders/0B7EVK8r0v71pVDZFQXRsMDZCX1E?resourcekey=0-4R4v6zl4CWhHTsUGOsTstw
 
-## Notice
-1.   **Default configs:** **epochs = 1**, **multi_gpu=None**, **model_type='rc'** 
-2. Added "eval_partioner_by_group(group)" and you can choose "group" in config.by default group='ALL'.you can ghange it to 'WOMEN' or 'MEN' and then edit the 'num_class' value.
+
 
