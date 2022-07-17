@@ -1,4 +1,4 @@
-# Fashion Image Retrieval With Quadruplet Capsule Networks**
+# Fashion Image Retrieval With Quadruplet Capsule Networks
 
 Official Notebook Based on M. Khatmi and M. J. Fadaeieslam, ["Fashion Image Retrieval With Quadruplet Capsule Networks,"](https://github.com/MahdiyeKhatami/QRCCapsNet/blob/main/Khatami_Fashion_Image_Retrieval_With_Quadruplet_Capsule_Networks.pdf)In The First Conference on Artificial Intelligence and Smart Computing,Semnan,Iran, 2022.
 
