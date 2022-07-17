@@ -2,7 +2,7 @@
 
 Official Notebook Based on M. Khatmi and M. J. Fadaeieslam, ["Fashion Image Retrieval With Quadruplet Capsule Networks,"](https://github.com/MahdiyeKhatami/QRCCapsNet/blob/main/Khatami_Fashion_Image_Retrieval_With_Quadruplet_Capsule_Networks.pdf) In The First Conference on Artificial Intelligence and Smart Computing, Semnan, Iran, 2022.
 
-![myimage-alt-tag]([https://i.postimg.cc/wM85JMdy/15.png](https://i.postimg.cc/8cT32H3D/18.png))
+![myimage-alt-tag](https://i.postimg.cc/C5VBSZHw/20.png)
 
 # Abstract
 The purpose of fashion image retrieval is to find images similar to the image searched in online shopping. one of the challenges is to retrieval images without sensitivity to the viewing angle and without using additional information. In previous studies, the RCCapsNet architecture has been proposed with the aim of replacing capsule networks with convolutional neural networks to solve the mentioned problems, which has used the triplet loss function to achieve this. This research is done with the aim of improving the RCCapsNet. To achieve this, the quadruplet version of the RCCapsNet is proposed using the quadruplet loss function which is named as QRCCapsNet. The proposed method is trained on the DeepFashion-Inshop dataset and the performance is evaluated by Recall@K metric. The results indicate the success of our proposed method
